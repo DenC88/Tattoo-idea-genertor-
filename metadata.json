@@ -1,5 +1,7 @@
 {
   "name": "Copy of Tattoo Idea Generator",
   "description": "A chatbot application that generates tattoo reference images based on user specifications for style, size, and color.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "camera"
+  ]
 }
